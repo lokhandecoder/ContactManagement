@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ContactManagement/static/css/main.ae0a426c.css",
+    "main.js": "/ContactManagement/static/js/main.37bc229b.js",
+    "static/js/453.aecde3e8.chunk.js": "/ContactManagement/static/js/453.aecde3e8.chunk.js",
+    "index.html": "/ContactManagement/index.html",
+    "main.ae0a426c.css.map": "/ContactManagement/static/css/main.ae0a426c.css.map",
+    "main.37bc229b.js.map": "/ContactManagement/static/js/main.37bc229b.js.map",
+    "453.aecde3e8.chunk.js.map": "/ContactManagement/static/js/453.aecde3e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0a426c.css",
+    "static/js/main.37bc229b.js"
+  ]
+}
